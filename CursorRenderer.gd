@@ -2,6 +2,7 @@ extends Viewport
 
 # You can use CursorRenderer as singelton.
 # CursorRenderer needs custom cursor image to work. (cursor provided is trash)
+# by Mateusz Kifner
 
 var texRect
 
